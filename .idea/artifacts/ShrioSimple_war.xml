@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ShrioSimple:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="shrio.war">
+      <element id="artifact" artifact-name="ShrioSimple:war exploded" />
+    </root>
+  </artifact>
+</component>
